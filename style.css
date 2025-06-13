@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background: #f0f8ff;
+  padding: 40px;
+
+}
+
+h1 {
+  color: #640c60;
+}
+
+input[type="number"] {
+  padding: 10px;
+  width: 100px;
+  font-size: 16px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  margin-left: 10px;
+  cursor: pointer;
+  background-color: #da78f3;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
+
+p {
+  font-size: 18px;
+  margin-top: 20px;
+}
